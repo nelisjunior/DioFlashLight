@@ -59,3 +59,6 @@ buck-out/
 # Ruby / CocoaPods
 /ios/Pods/
 /vendor/bundle/
+.idea/.gitignore
+.idea/DioFlashLight.iml
+.idea/modules.xml
