@@ -8,15 +8,9 @@ Projeto original do curso "Construindo um App usando  Sensor de Movimeno com Rea
 
 **Cadastre-se na Plataforma:** https://dio.me/sign-up?ref=nelis_expert
 
-## Capturas de tela
-
 **Resultado:** https://youtube.com/shorts/b6D2ZB2Vk8g?feature=share
 
-<img src="https://i.imgur.com/MlI8hxy.jpg" width="400" height="790" align=left >
-
-<img src="https://i.imgur.com/gcTs5Uo.jpg" width="400" height="790">
-
-## ConteÃºdo
+## Conteúdo
 - Libs react-native-shake e react-native-torch
 - Original icons: https://drive.google.com/drive/folders/1aDTyA09EFjFvqmXqkDKLoMhFx65QQExQ
 - StyleSheet
