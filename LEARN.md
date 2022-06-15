@@ -14,7 +14,7 @@ Projeto original do curso "Construindo um App usando  Sensor de Movimeno com Rea
 
 <img src="https://i.imgur.com/gcTs5Uo.jpg" width="400" height="790">
 
-## Conteúdo
+## ConteÃºdo
 - Libs react-native-shake e react-native-torch
 - Original icons: https://drive.google.com/drive/folders/1aDTyA09EFjFvqmXqkDKLoMhFx65QQExQ
 - StyleSheet
